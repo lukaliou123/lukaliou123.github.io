@@ -1,39 +1,17 @@
-## Welcome to GitHub Pages
+## luka自用2022日常实习资料抄录
 
+luka自用2022日常实习资料抄录集合，更新中，欢迎对错误和遗漏进行补正
 
-just try
-You can use the [editor on GitHub](https://github.com/lukaliou123/luka_interview_note/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+资料来自以下：   
+ [JavaGuide](https://javaguide.cn/)  
+ [JavaGuide面试突击版](https://snailclimb.gitee.io/javaguide-interview/#/)   
+ [Java面试题总结](https://juejin.cn/post/6844904125755293710)   
+等等
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 目录
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lukaliou123/luka_interview_note/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ [1.Java基础篇1](https://github.com/lukaliou123/lukaliou123.github.io/issues/3)  
+ [2.Java基础--IO篇 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/4)  
+ [3.Java基础--异常篇](https://github.com/lukaliou123/lukaliou123.github.io/issues/5)  
+ [4.Java容器篇](https://github.com/lukaliou123/lukaliou123.github.io/issues/1)  
+ [5.计算机网络知识总结](https://github.com/lukaliou123/lukaliou123.github.io/issues/2)  
