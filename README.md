@@ -19,4 +19,7 @@ luka自用2022日常实习资料抄录集合，更新中，欢迎对错误和遗
  [7.Java并发篇--锁](https://github.com/lukaliou123/lukaliou123.github.io/issues/7)  
  [8.Java并发篇--线程池](https://github.com/lukaliou123/lukaliou123.github.io/issues/8)  
  [9.数据库篇--MySql](https://github.com/lukaliou123/lukaliou123.github.io/issues/9)   
- [10.数据库篇--Redis](https://github.com/lukaliou123/lukaliou123.github.io/issues/10) 
+ [10.数据库篇--Redis](https://github.com/lukaliou123/lukaliou123.github.io/issues/10)  
+ [11.JVM篇](https://github.com/lukaliou123/lukaliou123.github.io/issues/11)  
+ [12.设计模式篇](https://github.com/lukaliou123/lukaliou123.github.io/issues/12)  
+ [13.操作系统篇](https://github.com/lukaliou123/lukaliou123.github.io/issues/13)  
