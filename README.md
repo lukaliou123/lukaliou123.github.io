@@ -22,6 +22,6 @@ luka自用2022日常实习资料抄录集合，更新中，欢迎对错误和遗
  [10.数据库篇--Redis](https://github.com/lukaliou123/lukaliou123.github.io/issues/10)  
  [11.JVM篇](https://github.com/lukaliou123/lukaliou123.github.io/issues/11)  
  [12.设计模式篇](https://github.com/lukaliou123/lukaliou123.github.io/issues/12)  
- [13.操作系统篇](https://github.com/lukaliou123/lukaliou123.github.io/issues/13)
+ [13.操作系统篇](https://github.com/lukaliou123/lukaliou123.github.io/issues/13)  
  [14.Linux常用命令篇](https://github.com/lukaliou123/lukaliou123.github.io/issues/14)  
  [15.面经补充篇](https://github.com/lukaliou123/lukaliou123.github.io/issues/15)
