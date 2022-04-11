@@ -26,6 +26,7 @@ luka自用2022日常实习资料抄录集合，更新中，欢迎对错误和遗
  [14.Linux常用命令篇](https://github.com/lukaliou123/lukaliou123.github.io/issues/14)  
  [15.面经补充篇](https://github.com/lukaliou123/lukaliou123.github.io/issues/15)  
  [16.MySql--事务原理和MVCC](https://github.com/lukaliou123/lukaliou123.github.io/issues/16)  
- [17.MQ--RocketMQ部分机制 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/17)
+ [17.MQ--RocketMQ部分机制 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/17)  
+ [18.JWT篇--基础知识 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/18)
 
 3.10：练习手撕代码：1.泛型练习 2.观看抽象和接口 3.写点反射 4.补充一下5个IO
