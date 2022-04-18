@@ -30,6 +30,7 @@ luka自用2022日常实习资料抄录集合，更新中，欢迎对错误和遗
  [18.JWT篇--基础知识 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/18)  
  [19.SQL语句细节 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/19)
  
+**当温饱解决了，该为梦想努力了
 
 3.10：练习手撕代码：1.泛型练习 2.观看抽象和接口 3.写点反射 4.补充一下5个IO
 4.18：更新SQL语句细节
