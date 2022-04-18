@@ -27,7 +27,7 @@ luka自用2022日常实习资料抄录集合，更新中，欢迎对错误和遗
  [15.面经补充篇](https://github.com/lukaliou123/lukaliou123.github.io/issues/15)  
  [16.MySql--事务原理和MVCC](https://github.com/lukaliou123/lukaliou123.github.io/issues/16)  
  [17.MQ--RocketMQ部分机制 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/17)  
- [18.JWT篇--基础知识 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/18)
+ [18.JWT篇--基础知识 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/18)  
  [19.SQL语句细节 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/19)
  
 
