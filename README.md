@@ -31,7 +31,8 @@ luka自用2022日常实习资料抄录集合，更新中，欢迎对错误和遗
  [19.SQL语句细节 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/19)  
  [20.SQL语句优化和数据库优化 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/20)  
  [21.Spring基础知识 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/21)  
- [22.字节测试开发面经补充 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/22)
+ [22.字节测试开发面经补充 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/22)  
+ [23.疯狂游戏面经补充 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/23)
  
 **当温饱解决了，该为梦想努力了**
 
@@ -39,4 +40,5 @@ luka自用2022日常实习资料抄录集合，更新中，欢迎对错误和遗
 4.18：更新SQL语句细节  
 4.19：更新SQL语句优化和数据库优化  
 4.22：更新Spring基础知识  
-4.27：更新字节测试开发面经补充
+4.27：更新字节测试开发面经补充  
+5.2：更新疯狂游戏面经补充
