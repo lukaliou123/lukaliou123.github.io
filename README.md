@@ -33,7 +33,8 @@ luka自用2022日常实习资料抄录集合，更新中，欢迎对错误和遗
  [21.Spring基础知识 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/21)  
  [22.字节测试开发面经补充 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/22)  
  [23.疯狂游戏面经补充 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/23)  
- [24.MongoDB--理论 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/24)
+ [24.MongoDB--理论 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/24)  
+ [25.SSM知识补充 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/25)
  
 **当温饱解决了，该为梦想努力了**
 
@@ -44,3 +45,4 @@ luka自用2022日常实习资料抄录集合，更新中，欢迎对错误和遗
 4.27：更新字节测试开发面经补充  
 5.2：更新疯狂游戏面经补充  
 5.3：更新MongoDB--理论
+7.21：更新SSM知识补充
