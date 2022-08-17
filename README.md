@@ -34,7 +34,8 @@ luka自用2022日常实习资料抄录集合，更新中，欢迎对错误和遗
  [22.字节测试开发面经补充 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/22)  
  [23.疯狂游戏面经补充 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/23)  
  [24.MongoDB--理论 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/24)  
- [25.SSM知识补充 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/25)
+ [25.SSM知识补充 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/25)  
+ [26.百度Java后台面经知识点 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/26)
  
 **当温饱解决了，该为梦想努力了**
 
@@ -46,4 +47,5 @@ luka自用2022日常实习资料抄录集合，更新中，欢迎对错误和遗
 5.2：更新疯狂游戏面经补充  
 5.3：更新MongoDB--理论  
 7.21：更新SSM知识补充  
-7.21：更新设计模式篇中的代理模式讲解
+7.21：更新设计模式篇中的代理模式讲解  
+8.17：更新百度Java后台面试知识点
