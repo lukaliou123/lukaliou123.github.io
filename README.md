@@ -35,7 +35,9 @@ luka自用2022日常实习资料抄录集合，更新中，欢迎对错误和遗
  [23.疯狂游戏面经补充 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/23)  
  [24.MongoDB--理论 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/24)  
  [25.SSM知识补充 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/25)  
- [26.百度Java后台面经知识点 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/26)
+ [26.百度Java后台面经知识点 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/26)  
+ [27.zookeeper和RPC ](https://github.com/lukaliou123/lukaliou123.github.io/issues/27)  
+ [28.百度面试复盘 ](https://github.com/lukaliou123/lukaliou123.github.io/issues/28)
  
 **当温饱解决了，该为梦想努力了**
 
